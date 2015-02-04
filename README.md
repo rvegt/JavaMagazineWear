@@ -1,0 +1,2 @@
+# JavaMagazineWear
+Wearable Application Demo
