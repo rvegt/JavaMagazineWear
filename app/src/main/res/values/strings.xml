@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JavaMagazine Demo</string>
+    <string name="notification_posted">Notification posted</string>
+    <string name="start_msg">Tik om te meten</string>
+    <string name="running_msg">Moment a.j.b.</string>
+    <string name="calc_msg">Rekenen...</string>
+    <string name="card_title">Hartslag</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
